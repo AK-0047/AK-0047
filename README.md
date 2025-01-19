@@ -8,50 +8,46 @@
 
 ### 💻 **About Me**
 
-| 🎓 **Education** | 🔍 **Focus** | 🚀 **Passion** |
-|------------------|-------------|----------------|
-| Final-year CS Student | Scalable and User-Friendly Apps | Learning and Optimization |
+🚀 Passionate about creating scalable, user-friendly applications and solving problems through data. Final-year Computer Science student with hands-on experience in databases and web technologies.
 
 ---
 
 ### 🚀 **Skills**
 
-| **Programming** | **Tools & Tech** | **Others** |
-|-----------------|------------------|------------|
-| Java, Python, JavaScript | Firebase, ReactJS, NodeJS, MySQL | Git, Docker, Figma |
-
----
-
-### 🛠️ **Projects**
-
-| **Project** | **Description** | **Tech Stack** |
-|-------------|-----------------|----------------|
-| [RouteShare](https://github.com/AK-0047/RouteShare) | Intercity ride-sharing app with chat and cost-efficient travel | Firebase, Java, React Native |
-| [Portfolio Website](https://github.com/AK-0047/Portfolio) | ReactJS-based portfolio showcasing projects and resume | ReactJS |
-| [Employee Management](https://github.com/AK-0047/COMP3123_Assignment01) | Full-stack app for employee records management | NodeJS, MongoDB, ReactJS |
-
----
-
 <div align="center">
+
+- **Programming**: Java | Python | JavaScript  
+- **Tech Stack**: Firebase | ReactJS | NodeJS | MySQL  
+- **Tools**: Git | Docker | Figma
+
+</div>
+
+---
+
+### 🛠️ **Featured Projects**
+
+| **Project** | **Description** | **Tech** |
+|-------------|-----------------|----------|
+| [RouteShare](https://github.com/AK-0047/RouteShare) | Intercity ride-sharing app with chat and cost-efficient travel | Firebase, Java |
+| [Portfolio](https://github.com/AK-0047/Portfolio) | ReactJS-based portfolio showcasing projects and skills | ReactJS |
+| [Employee Management](https://github.com/AK-0047/COMP3123_Assignment01) | Employee records management with full-stack features | NodeJS, MongoDB |
+
+---
 
 ### 📈 **GitHub Stats**
 
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AK-0047&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AK-0047&layout=compact&theme=radical) |
-|----------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
+<div align="center">
 
----
-
-### 🏆 **Highlights**
-
-| 🔧 Hands-on experience | 💡 Creative Problem-Solving | 🌍 Open Source Contributions |
-
----
-
-### 📬 **Let's Connect**
-
-| 🌐 [Portfolio](https://your-portfolio-link.com) | 📧 [Email](mailto:your-email@example.com) | 💼 [LinkedIn](https://linkedin.com/in/your-profile) |
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AK-0047&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AK-0047&layout=compact&theme=radical)
 
 </div>
+
+---
+
+### 📬 **Connect with Me**
+
+🌐 [Portfolio](https://your-portfolio-link.com) • 📧 [Email](mailto:your-email@example.com) • 💼 [LinkedIn](https://linkedin.com/in/your-profile)
 
 ---
 
