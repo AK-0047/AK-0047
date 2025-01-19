@@ -27,7 +27,7 @@ Passionate about creating scalable, user-friendly applications and solving probl
 📂 [RouteShare](https://github.com/AK-0047/RouteShare)  
 🚗 Intercity ride-sharing app with chat and cost-efficient travel (Tech: Firebase, Java)  
 
-📂 [Portfolio Website](https://github.com/AK-0047/Portfolio)  
+📂 [Portfolio Website](https://github.com/AK-0047/my-portfolio)  
 🌐 A personal ReactJS-based portfolio showcasing projects and skills (Tech: ReactJS)  
 
 📂 [Employee Management](https://github.com/AK-0047/COMP3123_Assignment01)  
@@ -49,9 +49,9 @@ Passionate about creating scalable, user-friendly applications and solving probl
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?style=flat-square&logo=vercel&logoColor=white)](https://your-portfolio-link.com)  
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/anshulkamboya])  
+[![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?style=flat-square&logo=vercel&logoColor=white)](https://anshulkamboya.vercel.app)  
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=flat-square&logo=gmail&logoColor=white)](mailto:anshul.kamboya@gmail.com)
 
 </div>
 
