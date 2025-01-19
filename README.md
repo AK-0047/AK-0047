@@ -27,7 +27,7 @@ Passionate about creating scalable, user-friendly applications and solving probl
 📂 [RouteShare](https://github.com/AK-0047/RouteShare)  
 🚗 Intercity ride-sharing app with chat and cost-efficient travel (Tech: Firebase, Java)  
 
-📂 [Portfolio Website](https://github.com/AK-0047/my-portfolio)  
+📂 [Portfolio Website](https://github.com/AK-0047/portfolio-website)  
 🌐 A personal ReactJS-based portfolio showcasing projects and skills (Tech: ReactJS)  
 
 📂 [Employee Management](https://github.com/AK-0047/COMP3123_Assignment01)  
