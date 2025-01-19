@@ -49,7 +49,7 @@ Passionate about creating scalable, user-friendly applications and solving probl
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/anshulkamboya])  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshulkamboya)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?style=flat-square&logo=vercel&logoColor=white)](https://anshulkamboya.vercel.app)  
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=flat-square&logo=gmail&logoColor=white)](mailto:anshul.kamboya@gmail.com)
 
